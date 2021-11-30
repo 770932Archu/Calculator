@@ -19,4 +19,5 @@ button{
     background-color: rgb(233, 116, 198);
     padding: 23px;
     border-radius: 53px;
+    display:inline-block;
 }
